@@ -1,1 +1,2 @@
 sample checking
+Added new line
