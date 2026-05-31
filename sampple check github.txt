@@ -1,0 +1,25 @@
+http://github.com/
+
+https://www.youtube.com/watch?v=c-NikCpec7U
+
+https://github.com/jaish19
+
+https://github.com/dashboard
+
+1. Signup with github.com
+
+2. Settings -> simple profile settings
+
+3. Creating the new repository
+
+4. Created a new file and committed it to main branch.
+
+5. How to upload my codes from local
+
+6. How to review  the  history and blame options to observe  the changes in the existing code.
+
+7. How to share my working repository and how to download my working repository
+
+8. How to fork the repository from other repo to your own account.
+
+9. How to delete the fork repository & our repository
